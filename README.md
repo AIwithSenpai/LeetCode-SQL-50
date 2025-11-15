@@ -1,3 +1,5 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AIwithSenpai.LeetCode-SQL-50)
+
 # LeetCode-SQL-50
 
 🗄️ SQL LeetCode 50 — Master SQL for Data Interviews
@@ -12,3 +14,5 @@ A curated, structured, and beginner-friendly collection of the 50 most important
 | Second Highest Salary | 🟩 |
 | Nth Highest Salary | 🟥 |
 
+<progress value="10" max="50"></progress>
+1 / 50 Completed
