@@ -96,27 +96,6 @@ Perfect for:
 
 ---
 
-# 🚀 SQL Learning Roadmap
-
-## ✅ 7-Day Roadmap (Fastest)
-
-**Day 1:** SELECT, WHERE, ORDER BY  
-**Day 2:** GROUP BY, HAVING  
-**Day 3:** JOINS  
-**Day 4:** Subqueries  
-**Day 5:** Window Functions  
-**Day 6:** CTEs + CASE  
-**Day 7:** Solve 20 problems  
-
----
-
-## 🔥 14-Day Roadmap (Strong)
-
-Week 1 → Basics + Joins + Group BY  
-Week 2 → Window Functions + Medium Problems  
-
----
-
 ## 🏆 30-Day Roadmap (Mastery)
 
 - Week 1: Fundamentals + 10 Easy  
