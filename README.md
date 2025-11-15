@@ -96,15 +96,6 @@ Perfect for:
 
 ---
 
-# 📂 Folder Structure
-📁 SQL-LeetCode-50
-│── 📂 Easy
-│── 📂 Medium
-│── 📂 Hard
-│── 📄 README.md
-│── 📄 progress-tracker.md
----
-
 # 🚀 SQL Learning Roadmap
 
 ## ✅ 7-Day Roadmap (Fastest)
@@ -138,8 +129,8 @@ Week 2 → Window Functions + Medium Problems
 # ⭐ How to Use This Repo
 
 1️⃣ Open any problem  
-2️⃣ Read the explanation  
-3️⃣ Try solving  
+2️⃣ Try solving  
+3️⃣ Watch explantion on YouTube if needed
 4️⃣ Compare your SQL  
 5️⃣ Mark it: 🟩 or 🟥 in the tracker  
 6️⃣ Update progress bar manually  
